@@ -3,7 +3,7 @@ import { ReactTyped } from "react-typed";
 function Hero() {
   return (
   <div className="text-white">
-      <div className="max-w-200 w-full -mt-24 h-screen mx-auto flex flex-col text-center justify-center">
+      <div className="max-w-200 w-full -mt-20 h-screen mx-auto flex flex-col text-center justify-center">
           <p className="text-green-500 font-bold text-xl sm:text-2xl md:text-4xl md:p-6">GROWING WITH DATA ANALYTICS</p>
           <h1 className="font-bold text-3xl sm:text-4xl md:text-6xl">Grow with data,</h1>
           <div className="font-bold text-xl sm:text-2xl md:text-4xl flex justify-center p-2">

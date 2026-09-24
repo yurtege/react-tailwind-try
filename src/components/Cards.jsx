@@ -5,8 +5,8 @@ import Triple from '../assets/triple.png'
 
 function Cards() {
   return (
-    <div className="w-full py-40 bg-white px-4 md:px-8 lg:px-32">
-        <div className="grid sm:grid-cols-3 gap-6 md:gap-12 mx-auto">
+    <div className="w-full py-40 bg-white px-4 md:px-8 lg:px-8">
+        <div className="grid sm:grid-cols-3 gap-6 lg:gap-12 mx-auto">
 
             <div className='w-full flex flex-col p-4 my-4 justify-center items-center rounded-lg shadow-2xl hover:scale-103 duration-300'>
                 <img src={Single} alt="/" className='w-20 mt-[-3rem]'/>
